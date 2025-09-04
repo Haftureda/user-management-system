@@ -78,7 +78,7 @@ A React-based frontend application built with Vite for managing and viewing user
 git clone https://github.com/Haftureda/user-management-system
 cd user-management-system/frontend
 ```
-If you already cloned the repository in the backend part, you can skip it here(Just cd user-management-system/frontend).
+If you already cloned the repository in the backend part, you can skip the cloning here (Just cd user-management-system/frontend).
 
 ### 2. Install Dependencies
 
