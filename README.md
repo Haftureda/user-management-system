@@ -1,6 +1,6 @@
 # User Management System - Frontend
 
-A React-based frontend application built with Vite for managing and viewing user data. Features a professional UI with advanced filtering and reporting capabilities.
+A React-based frontend application built with Vite for managing and viewing user data. Features a frontend UI with advanced filtering and reporting capabilities.
 
 ## Features
 
