@@ -31,10 +31,12 @@ A Node.js/Express.js backend server for managing users. This API connects to the
 
 ## Installation
 
-### 1. Clone the repository:
+### 2. Clone the repository:
 
 git clone https://github.com/Haftureda/user-management-system
+
 cd user-management-system/backend
+
 
 ### 2. Install dependencies:
 
