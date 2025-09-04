@@ -31,12 +31,11 @@ A Node.js/Express.js backend server for managing users. This API connects to the
 
 ## Installation
 
-### 2. Clone the repository:
-
+### 1. Clone the Repository
+```bash
 git clone https://github.com/Haftureda/user-management-system
-
 cd user-management-system/backend
-
+```
 
 ### 2. Install dependencies:
 
@@ -71,10 +70,10 @@ A React-based frontend application built with Vite for managing and viewing user
 ## Local Development Setup with Vite
 
 ### 1. Clone the Repository
-
-   git clone https://github.com/Haftureda/user-management-system
-   cd user-management-system/frontend
-
+```bash
+git clone https://github.com/Haftureda/user-management-system
+cd user-management-system/frontend
+```
 ### 2. Install Dependencies
 
     npm install
