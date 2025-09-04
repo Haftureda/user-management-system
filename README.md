@@ -30,10 +30,10 @@ cd user-management-system/frontend
 
 ### 3. Start the Development Server
 
- ```bash
-   npm run dev
-   ```
-    Vite will start the development server on http://localhost:3000 with hot module replacement (HMR) enabled.
+```bash
+npm run dev
+```
+Vite will start the development server on http://localhost:3000 with hot module replacement (HMR) enabled.
 
 ### 4. Build the project
 
